@@ -1,3 +1,8 @@
+# references
+# https://code.likeagirl.io/finding-dominant-colour-on-an-image-b4e075f98097
+# https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_gui/py_video_display/py_video_display.html
+
+
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
